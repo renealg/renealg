@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @renealg
 - 🌱 I'm working as a QA Engineer at Check Point Software
 - 👀 I’m interested in learning new things & writing code
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/rene-algrably/
-- ⚡ Fun fact: I love animals!
+- 💞️ Fun fact: I love animals!
